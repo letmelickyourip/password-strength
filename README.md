@@ -1,3 +1,3 @@
 # password-strength
 
--- strength checker through py
+-- strength checker through python
